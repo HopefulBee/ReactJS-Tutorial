@@ -55,3 +55,14 @@
     word-wrap: break-word;
   }
   
+ @media screen and (max-width: 780px) {
+   header {
+    margin: auto -16px;
+    padding: 20px;
+   }
+   .note{
+    padding: 40px;
+    width: 200px;
+    margin: 40px;
+   } 
+ } 
