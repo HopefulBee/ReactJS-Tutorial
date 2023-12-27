@@ -4,4 +4,4 @@ Master Branch - A greeting app, that grets you according to the your time. If it
 import-export Branch - A simple app, the goal was to really learn how to use the import and export module.
 
 
-note-keeper Branch - First Real Challenge in the web development bootcamp (for React Js). Creating a simple note app, with a header and footer (with a dynamic year).
+keeper-app Branch - First Real Challenge in the web development bootcamp (for React Js). Creating a simple note app, with a header and footer (with a dynamic year).
