@@ -55,7 +55,7 @@
     word-wrap: break-word;
   }
   
- @media screen and (max-width: 780px) {
+ @media screen and (max-width: 680px) {
    header {
     margin: auto -16px;
     padding: 20px;
