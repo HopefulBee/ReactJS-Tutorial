@@ -71,4 +71,15 @@ footer p {
     width: 200px;
     margin: 40px;
   }
+footer{
+  position: absolute;
+  text-align: center;
+  bottom: 0;
+  width: 100%;
+  height: 1.5rem;
+}
+
+footer p {
+  color: #ccc;
+}
 }
